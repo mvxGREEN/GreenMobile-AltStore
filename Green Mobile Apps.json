@@ -4,6 +4,8 @@
   "description": "Please enjoy responsibly <3",
   "iconURL": "https://mobileapps.green/the_gma_logo.png",
   "website": "https://mobileapps.green",
+  "identifier": "green.mobileapps.source",
+  "fediUsername": "greenmobile",
   "patreonURL": "https://www.patreon.com/cw/GreenMobileApps",
   "tintColor": "#1F6427",
   "featuredApps": [
